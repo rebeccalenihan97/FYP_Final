@@ -1,6 +1,6 @@
 The Flavour of Disorder: Predicting Intrinsically Disordered Regions in Proteins by Deep Learning
 
--   Rebecca Lenihan - 16316151
+-   Rebecca Lenihan
 -   Supervisor: Dr. Gianluca Pollastri
 
 Prerequisites
