@@ -3,7 +3,7 @@ The Flavour of Disorder: Predicting Intrinsically Disordered Regions in Proteins
 -   Rebecca Lenihan - 16316151
 -   Supervisor: Dr. Gianluca Pollastri
 
-Prerequisites(#Prerequisites) 
+Prerequisites
 --------------------------------
 
 The runnable scripts for this project were written in Python 3 using
@@ -19,7 +19,7 @@ to be in place:
 -   Please ensure that all datasets are located in the same directory as
     the notebooks
 
-Note(#Note)
+Note
 ==============
 
 -   Some of the datasets were too large to upload to GitHub, namely the
@@ -38,7 +38,7 @@ to run the relevant notebooks.
 -   4: Compile the "initialAnalysis.ipynb" notebook, and as a result,
     the "dataset.csv" dataset will be created in the same directory.
 
-Files Included(#Files-Included)
+Files Included
 ----------------------------------
 
 -   The models used in this project (i.e. the Feed-Forward Neural
@@ -53,7 +53,7 @@ Files Included(#Files-Included)
 -   Also included are a number of datasets which were used throughout
     the project and will be explained in further detail below
 
-Datasets(#Datasets)
+Datasets
 ----------------------
 
 -   **derived\_disorder.mjson**: Original dataset from
@@ -81,7 +81,7 @@ Datasets(#Datasets)
 -   **result.fasta**: Dataset to be redundancy reduced in FASTA format
 -   **result.txt**: Textfile version of result.fasta file
 
-Notebooks(#Notebooks)
+Notebooks
 ------------------------
 
 *Note: **FYP\_FinalCode\_BeforeRR** and **InputFilesforNN** contain the
@@ -90,7 +90,7 @@ Initially, tasks were performed separately, before I combined them into
 these two notebooks to reduce complexity and increase ease of
 understanding for reviewer.*
 
-#### Final Notebooks: (#Final-Notebooks:) 
+#### Final Notebooks:  
 
 -   **initialAnalysis.ipynb**: This notebook contains the initial
     analysis and pre-processing of the dataset. Namely adding more
@@ -104,7 +104,7 @@ understanding for reviewer.*
     one-hot encoding representation of the amino acids, followed by the
     process being repeated using aligned sequences.
 
-#### Previous Notebooks:(#Previous-Notebooks:) 
+#### Previous Notebooks: 
 
 -   **FormattingInputforNN\_initial.ipynb**: This notebook contains the
     initial code used to format the input files for the Neural Networks
@@ -118,7 +118,7 @@ understanding for reviewer.*
     their corresponding indexes to mirror the changes being made in the
     sequences.
 
-Other Folders(#Other-Folders) 
+Other Folders 
 --------------------------------
 
 -   **FYP Experiments**: Contains the log files which resulted from
